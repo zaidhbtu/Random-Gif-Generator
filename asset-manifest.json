@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Random-Gif-Generator/static/css/main.55538c3f.css",
+    "main.js": "/Random-Gif-Generator/static/js/main.c82d4f45.js",
+    "index.html": "/Random-Gif-Generator/index.html",
+    "main.55538c3f.css.map": "/Random-Gif-Generator/static/css/main.55538c3f.css.map",
+    "main.c82d4f45.js.map": "/Random-Gif-Generator/static/js/main.c82d4f45.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.55538c3f.css",
+    "static/js/main.c82d4f45.js"
+  ]
+}
